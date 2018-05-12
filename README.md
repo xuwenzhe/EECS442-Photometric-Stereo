@@ -1,4 +1,4 @@
-# Umich EECS 442 (Winter 2018) Homework 1 
+# Umich EECS 442 (Winter 2018) Homework 2 
 
 by Wenzhe Xu
 
