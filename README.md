@@ -1,6 +1,6 @@
-# Computer-Vision-Photometric-Stereo
+# Umich EECS 442 (Winter 2018) Homework 1 
 
-Umich EECS 442 (Winter 2018) homework 1 by Wenzhe Xu
+by Wenzhe Xu
 
 Keywords: shape from shading
 
